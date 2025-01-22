@@ -1,0 +1,876 @@
+"CustomerID";"Industry";"Region";"Revenue";"Employees"
+1;"Energy";"Asia-Pacific";9912216;3346
+2;"Manufacturing";"Europe";75941259;940
+3;"Retail";"Europe";60563214;86
+4;"Energy";"Middle East";12597626;2108
+5;"Healthcare";"Middle East";34143385;13
+6;"Transportation";"Middle East";40275688;463
+7;"Retail";"Africa";NA;NA
+8;"Retail";"Asia-Pacific";85119150;2409
+9;"Energy";"Middle East";289689119;672
+10;"Finance";"North America";30523401;2400
+11;"Healthcare";"Africa";2602575;156
+12;"Energy";"South America";2905350;247
+13;"Healthcare";"North America";2417616;879
+14;"Healthcare";"North America";4813270;22
+15;"Transportation";"Middle East";1612121;169
+16;"Retail";"South America";391822548;4990
+17;"Manufacturing";"South America";39156053;618
+18;"Transportation";"Africa";11123769;71
+19;"Transportation";"South America";6524102;714
+20;"Healthcare";"Asia-Pacific";61579149;420
+21;"Education";"Middle East";2741134;18
+22;"Retail";"South America";411042676;526
+23;"Finance";"Africa";39160582;59
+24;"Transportation";"Asia-Pacific";22035848;65
+25;"Manufacturing";"Europe";41900146;60
+26;"Education";"Europe";15828463;33
+27;"Education";"Asia-Pacific";75370439;878
+28;"Finance";"Africa";14913841;621
+29;"Transportation";"Asia-Pacific";49061846;175
+30;"Manufacturing";"Middle East";2803740;17
+31;"Retail";"Middle East";335719027;352
+32;"Technology";"Europe";23433382;1720
+33;"Manufacturing";"South America";444214498;2073
+34;"Finance";"Africa";NA;NA
+35;"Education";"Europe";49246906;46
+36;"Retail";"South America";53395049;2604
+37;"Manufacturing";"South America";1066150;550
+38;"Technology";"Middle East";74728848;652
+39;"Technology";"North America";12429645;519
+40;"Healthcare";"North America";60822814;150
+41;"Healthcare";"Asia-Pacific";NA;NA
+42;"Energy";"Middle East";2931451;667
+43;"Finance";"South America";3547500;402
+44;"Transportation";"Africa";4355745;34
+45;"Manufacturing";"North America";1999554;646
+46;"Manufacturing";"South America";406182948;28
+47;"Transportation";"North America";17547242;664
+48;"Energy";"North America";5134055;442
+49;"Education";"North America";3587609;269
+50;"Education";"Africa";1676022;44
+51;"Energy";"Middle East";14198550;158
+52;"Education";"Africa";62267883;169
+53;"Healthcare";"Europe";92639398;199
+54;"Manufacturing";"South America";31984398;350
+55;"Energy";"Middle East";18725559;932
+56;"Manufacturing";"Middle East";2841648;87
+57;"Transportation";"Middle East";18938179;193
+58;"Technology";"Middle East";27132508;3467
+59;"Healthcare";"Africa";3243541;37
+60;"Retail";"Middle East";395289752;61
+61;"Healthcare";"Asia-Pacific";19949772;1650
+62;"Energy";"South America";8828433;18
+63;"Retail";"Middle East";39512480;3638
+64;"Technology";"South America";33594639;127
+65;"Energy";"Asia-Pacific";9448748;454
+66;"Finance";"Asia-Pacific";107152747;34
+67;"Manufacturing";"South America";15697597;458
+68;"Technology";"North America";3207169;114
+69;"Manufacturing";"Europe";204800566;491
+70;"Education";"North America";473416674;16
+71;"Finance";"North America";32504233;285
+72;"Finance";"Africa";191351453;646
+73;"Technology";"North America";21020154;117
+74;"Finance";"Middle East";359729164;2578
+75;"Retail";"Africa";224284044;874
+76;"Finance";"Africa";1750865;325
+77;"Manufacturing";"Asia-Pacific";26733215;367
+78;"Manufacturing";"North America";347346783;74
+79;"Energy";"Asia-Pacific";28195810;388
+80;"Manufacturing";"South America";400775290;28
+81;"Energy";"Europe";140739629;118
+82;"Manufacturing";"Africa";49900787;718
+83;"Retail";"South America";13171548;47
+84;"Transportation";"South America";56714301;41
+85;"Energy";"Middle East";480291056;2191
+86;"Healthcare";"Europe";15481981;609
+87;"Education";"South America";97784180;45
+88;"Technology";"South America";97379179;732
+89;"Manufacturing";"Europe";15760888;2765
+90;"Finance";"Europe";31305231;1353
+91;"Transportation";"South America";76035947;181
+92;"Manufacturing";"Europe";82909688;1073
+93;"Finance";"South America";178483721;186
+94;"Education";"South America";44746909;42
+95;"Education";"Middle East";6859582;270
+96;"Education";"North America";79610323;63
+97;"Finance";"South America";63775236;249
+98;"Manufacturing";"Asia-Pacific";114372528;11
+99;"Education";"Africa";496471724;944
+100;"Retail";"North America";301875831;505
+101;"Energy";"North America";45722525;77
+102;"Finance";"North America";88963185;199
+103;"Finance";"Middle East";97173924;464
+104;"Manufacturing";"South America";96571160;47
+105;"Finance";"Middle East";99996207;700
+106;"Finance";"South America";14659072;100
+107;"Education";"Middle East";251780276;12
+108;"Manufacturing";"Middle East";293705934;258
+109;"Education";"Africa";NA;NA
+110;"Energy";"Asia-Pacific";5397710;330
+111;"Transportation";"Middle East";11503216;3775
+112;"Energy";"Africa";1122744;372
+113;"Transportation";"Europe";19361539;11
+114;"Education";"Asia-Pacific";34133434;302
+115;"Energy";"Middle East";54785956;26
+116;"Manufacturing";"North America";1911420;85
+117;"Technology";"Europe";1831460;43
+118;"Education";"Europe";19918570;80
+119;"";"Africa";NA;NA
+120;"Retail";"Europe";282883013;1662
+121;"Transportation";"Asia-Pacific";44773414;236
+122;"Retail";"Middle East";5910775;487
+123;"Finance";"Middle East";89509310;25
+124;"Energy";"North America";2701165;39
+125;"Retail";"Africa";496861450;321
+126;"Transportation";"North America";67336140;25
+127;"Finance";"Europe";8881185;512
+128;"Technology";"North America";280534424;1657
+129;"Manufacturing";"Asia-Pacific";88559430;900
+130;"Manufacturing";"Middle East";17401203;190
+131;"Manufacturing";"Europe";60679043;4720
+132;"Retail";"North America";1972346;203
+133;"Technology";"Africa";1915015;194
+134;"Retail";"Asia-Pacific";NA;530
+135;"Energy";"Asia-Pacific";477208668;737
+136;"Retail";"North America";10193278;4351
+137;"Technology";"Middle East";37208629;142
+138;"Technology";"North America";2352564;3675
+139;"Energy";"Europe";3424050;604
+140;"Technology";"North America";97089005;318
+141;"Transportation";"Asia-Pacific";5863561;505
+142;"Technology";"North America";50302186;448
+143;"Manufacturing";"Middle East";4207393;10
+144;"Transportation";"Africa";2295160;4705
+145;"Transportation";"South America";27456985;39
+146;"Energy";"North America";11767528;649
+147;"";"Middle East";4828464;134
+148;"Healthcare";"Middle East";67803769;431
+149;"Technology";"Africa";2235202;788
+150;"Transportation";"Asia-Pacific";45311095;661
+151;"Healthcare";"Middle East";318054148;25
+152;"Healthcare";"Middle East";348432388;238
+153;"Technology";"Middle East";8743797;192
+154;"Healthcare";"Middle East";21514542;492
+155;"Retail";"Europe";43134934;351
+156;"Finance";"Europe";137735088;164
+157;"Energy";"Asia-Pacific";31318792;11
+158;"Finance";"North America";1076898;3409
+159;"Technology";"Middle East";35135763;458
+160;"Manufacturing";"Africa";4295097;975
+161;"Energy";"North America";90400624;125
+162;"Technology";"Africa";28676924;117
+163;"Transportation";"North America";93951994;32
+164;"Manufacturing";"Asia-Pacific";4153385;2690
+165;"Finance";"Middle East";6829553;105
+166;"Technology";"Middle East";17477265;762
+167;"Transportation";"South America";23041341;193
+168;"Energy";"Africa";224106967;NA
+169;"Energy";"North America";196362498;46
+170;"Education";"North America";64315679;744
+171;"Transportation";"Europe";3105058;212
+172;"Retail";"South America";44440805;739
+173;"Healthcare";"Europe";4724044;47
+174;"Manufacturing";"Europe";258803950;27
+175;"Transportation";"Europe";65527000;2453
+176;"Education";"Africa";18297992;85
+177;"Healthcare";"Africa";6675843;4230
+178;"Healthcare";"Asia-Pacific";1034701;184
+179;"Technology";"Asia-Pacific";4229028;4139
+180;"Healthcare";"Europe";43834209;4920
+181;"Retail";"South America";2721610;507
+182;"Energy";"North America";110569320;214
+183;"Education";"Africa";169448631;123
+184;"Healthcare";"South America";3140794;899
+185;"Technology";"Middle East";3614235;30
+186;"Retail";"Africa";5491036;663
+187;"Finance";"Africa";13715912;266
+188;"Energy";"Asia-Pacific";42824130;847
+189;"Energy";"North America";15851224;630
+190;"Education";"North America";22710241;70
+191;"Energy";"Middle East";252137897;456
+192;"Healthcare";"Middle East";8961352;19
+193;"Technology";"Africa";23978702;2561
+194;"Energy";"Europe";91723416;11
+195;"Energy";"Asia-Pacific";37104132;481
+196;"Finance";"Asia-Pacific";473605306;104
+197;"Finance";"Africa";1605409;789
+198;"Manufacturing";"South America";14462743;664
+199;"Retail";"Europe";111377787;295
+200;"Healthcare";"Africa";43626702;770
+201;"Energy";"Europe";41827621;10
+202;"Transportation";"Europe";28337735;2134
+203;"Energy";"Europe";2725690;130
+204;"Technology";"Africa";40057988;12
+205;"Manufacturing";"Asia-Pacific";309523887;983
+206;"Retail";"Asia-Pacific";10809041;2961
+207;"Transportation";"Europe";32546501;3950
+208;"Manufacturing";"South America";10087268;525
+209;"Education";"North America";2961275;641
+210;"Retail";"Africa";1403119;4189
+211;"Energy";"North America";350219468;982
+212;"Energy";"South America";66556827;892
+213;"Retail";"Africa";2135564;3965
+214;"Energy";"Europe";49332593;225
+215;"Healthcare";"Asia-Pacific";133957164;4151
+216;"Retail";"North America";169058877;13
+217;"Manufacturing";"Middle East";47789660;4245
+218;"Retail";"Middle East";6132658;212
+219;"Transportation";"South America";420752313;41
+220;"Energy";"Europe";24322626;328
+221;"Healthcare";"North America";259394855;41
+222;"Healthcare";"Europe";46376033;1092
+223;"Education";"North America";288028967;641
+224;"Manufacturing";"South America";382316634;1543
+225;"Finance";"South America";173135852;834
+226;"Finance";"Middle East";115590661;520
+227;"Retail";"Europe";191312343;346
+228;"Education";"Africa";22366610;977
+229;"Technology";"Middle East";2068199;2852
+230;"Retail";"Europe";18305947;15
+231;"Education";"Middle East";49342048;3720
+232;"Manufacturing";"Africa";1490042;2885
+233;"Manufacturing";"Asia-Pacific";84012730;543
+234;"Manufacturing";"Asia-Pacific";37824559;180
+235;"Manufacturing";"Asia-Pacific";42496936;560
+236;"Manufacturing";"Asia-Pacific";13493836;81
+237;"Education";"North America";473719402;999
+238;"Education";"Asia-Pacific";411262552;505
+239;"Healthcare";"Africa";85284660;967
+240;"Transportation";"South America";336827817;2954
+241;"Finance";"South America";6569123;60
+242;"Energy";"North America";417787802;845
+243;"Manufacturing";"Asia-Pacific";16667877;630
+244;"Technology";"Asia-Pacific";57393979;176
+245;"Energy";"Asia-Pacific";15115078;20
+246;"Education";"Middle East";16729028;678
+247;"Technology";"Europe";75214698;106
+248;"Technology";"Middle East";21622572;2487
+249;"Technology";"Europe";8220281;1457
+250;"Healthcare";"Asia-Pacific";488565752;133
+251;"Education";"Asia-Pacific";44952818;893
+252;"Technology";"Middle East";37486878;599
+253;"Manufacturing";"Middle East";72098345;30
+254;"Retail";"Europe";18261162;18
+255;"Technology";"South America";1470452;2180
+256;"Healthcare";"Europe";10672605;690
+257;"Energy";"Middle East";244746022;165
+258;"Education";"Africa";3592670;463
+259;"Transportation";"Middle East";54810833;130
+260;"Healthcare";"Africa";391916131;1400
+261;"Technology";"North America";11417665;3812
+262;"Education";"Middle East";67219277;147
+263;"Retail";"North America";48500556;13
+264;"Technology";"South America";82073692;54
+265;"Healthcare";"Europe";137316107;603
+266;"Finance";"Africa";15649894;90
+267;"Manufacturing";"Europe";74192961;773
+268;"Transportation";"North America";74859871;46
+269;"Energy";"Africa";1488972;421
+270;"Healthcare";"Europe";14512602;808
+271;"Education";"Middle East";4081328;920
+272;"Transportation";"Asia-Pacific";357029352;624
+273;"Transportation";"North America";129263888;47
+274;"Transportation";"Europe";77783527;113
+275;"Technology";"North America";28551646;2509
+276;"Manufacturing";"North America";4087201;4700
+277;"Technology";"Africa";1930491;391
+278;"Education";"Africa";138965695;2598
+279;"Technology";"Asia-Pacific";271735895;1768
+280;"Finance";"Middle East";76540396;983
+281;"Manufacturing";"North America";47521698;16
+282;"Manufacturing";"Europe";114812143;655
+283;"Education";"South America";11493509;3140
+284;"Energy";"North America";58989138;64
+285;"Finance";"North America";18810077;136
+286;"Healthcare";"Asia-Pacific";179146438;333
+287;"Technology";"Middle East";29466441;1510
+288;"Retail";"South America";30966248;180
+289;"Technology";"Africa";92378463;36
+290;"Transportation";"Africa";2192929;446
+291;"Technology";"Europe";56555035;129
+292;"Healthcare";"South America";4375675;30
+293;"Technology";"Africa";4377486;188
+294;"Finance";"Europe";93607261;265
+295;"Finance";"Middle East";4303460;22
+296;"Manufacturing";"Europe";87622748;413
+297;"Education";"Africa";266674709;442
+298;"Energy";"Asia-Pacific";367269315;30
+299;"Retail";"Asia-Pacific";28067987;27
+300;"Transportation";"Asia-Pacific";21656671;373
+301;"Technology";"Africa";2487331;360
+302;"Technology";"Asia-Pacific";42922481;1164
+303;"Healthcare";"South America";13527171;26
+304;"Education";"Middle East";1783066;44
+305;"Finance";"Europe";277715391;997
+306;"Retail";"Europe";9899856;20
+307;"";"Africa";43017995;NA
+308;"Finance";"Asia-Pacific";9055957;199
+309;"Transportation";"Asia-Pacific";43394704;456
+310;"Education";"North America";5597897;167
+311;"Transportation";"Middle East";4941237;76
+312;"Energy";"South America";1772800;696
+313;"Manufacturing";"Europe";348766485;84
+314;"Energy";"North America";420810103;2588
+315;"Healthcare";"North America";87214417;612
+316;"Transportation";"Africa";74796429;4836
+317;"Healthcare";"Europe";8576511;582
+318;"Technology";"Africa";319267758;49
+319;"Energy";"South America";20549148;727
+320;"Education";"North America";86328139;92
+321;"Transportation";"North America";18067002;30
+322;"Retail";"Middle East";10068002;22
+323;"Manufacturing";"South America";52773939;163
+324;"Finance";"North America";21935740;305
+325;"Education";"South America";136989387;26
+326;"Education";"Europe";9936710;620
+327;"Healthcare";"Asia-Pacific";63426716;893
+328;"Energy";"North America";195019914;925
+329;"Transportation";"Middle East";407145760;329
+330;"Transportation";"Europe";416153477;11
+331;"Technology";"South America";8177326;110
+332;"Technology";"Africa";2554510;38
+333;"Manufacturing";"Europe";15219423;147
+334;"Healthcare";"North America";187649202;60
+335;"Education";"South America";110774986;1242
+336;"Transportation";"Asia-Pacific";NA;4898
+337;"Retail";"Europe";54421590;944
+338;"Healthcare";"North America";86089369;432
+339;"Manufacturing";"Middle East";245763809;477
+340;"Manufacturing";"Africa";84366893;484
+341;"Healthcare";"South America";397656835;403
+342;"Manufacturing";"Europe";319822032;1759
+343;"Healthcare";"Europe";86265058;3850
+344;"Finance";"Asia-Pacific";94924392;17
+345;"Healthcare";"Asia-Pacific";265888038;3774
+346;"Energy";"Middle East";35404302;17
+347;"Healthcare";"Africa";12906166;3993
+348;"Manufacturing";"Middle East";426077212;1079
+349;"Transportation";"North America";14775260;373
+350;"Energy";"North America";11440010;269
+351;"Manufacturing";"Middle East";13674163;41
+352;"Technology";"Africa";37221407;137
+353;"Technology";"Middle East";2502337;601
+354;"Transportation";"Africa";2554094;508
+355;"Transportation";"Africa";8486669;127
+356;"Energy";"South America";226749717;17
+357;"Finance";"Africa";47209162;587
+358;"Transportation";"Asia-Pacific";23722946;10
+359;"Technology";"Africa";93429245;309
+360;"Healthcare";"Africa";16254507;67
+361;"Manufacturing";"Africa";50224695;14
+362;"Technology";"North America";3981467;1148
+363;"Technology";"Asia-Pacific";76267668;777
+364;"Finance";"Asia-Pacific";34063918;732
+365;"Energy";"Middle East";12552975;40
+366;"Energy";"South America";44900452;160
+367;"Education";"Africa";4567546;4300
+368;"Finance";"Europe";3805843;639
+369;"Healthcare";"South America";49933317;24
+370;"Energy";"South America";2410706;711
+371;"Manufacturing";"Asia-Pacific";4340216;16
+372;"Transportation";"South America";4833284;3547
+373;"Finance";"Africa";366081786;228
+374;"Transportation";"Africa";33245696;101
+375;"Technology";"North America";2847865;461
+376;"Manufacturing";"Africa";19921595;761
+377;"Manufacturing";"Africa";12586725;39
+378;"Technology";"Asia-Pacific";98123406;41
+379;"Finance";"Africa";14308092;3568
+380;"Technology";"North America";423665058;338
+381;"Transportation";"Europe";87571568;238
+382;"Education";"Asia-Pacific";18869848;311
+383;"Manufacturing";"Europe";486220823;1992
+384;"Retail";"Asia-Pacific";369510417;420
+385;"Retail";"Middle East";9625678;26
+386;"Transportation";"South America";61950571;723
+387;"Healthcare";"Middle East";285683482;336
+388;"Energy";"Africa";19386759;756
+389;"Technology";"Europe";17866619;49
+390;"Technology";"Africa";52474968;34
+391;"Healthcare";"South America";2971856;18
+392;"Healthcare";"Asia-Pacific";10672540;11
+393;"Transportation";"South America";18569332;99
+394;"Transportation";"North America";223085319;45
+395;"Healthcare";"South America";42749774;882
+396;"Manufacturing";"North America";7442266;824
+397;"Transportation";"South America";230371121;23
+398;"Education";"North America";2210355;305
+399;"Transportation";"Europe";176716230;34
+400;"Technology";"Africa";10241218;19
+401;"Transportation";"Africa";76821567;349
+402;"Manufacturing";"Middle East";1956331;4748
+403;"Healthcare";"Africa";239698868;21
+404;"Technology";"Asia-Pacific";73991831;2883
+405;"Transportation";"South America";81247234;49
+406;"Manufacturing";"Middle East";4816339;11
+407;"Education";"Asia-Pacific";3743853;874
+408;"Transportation";"Asia-Pacific";474080014;22
+409;"Manufacturing";"North America";41302424;145
+410;"Education";"Africa";25290717;488
+411;"Healthcare";"Europe";5518349;788
+412;"Transportation";"Europe";69659206;174
+413;"Education";"Middle East";20797968;43
+414;"Technology";"Europe";86210403;1523
+415;"Healthcare";"South America";35999496;210
+416;"Technology";"Europe";2414821;471
+417;"Retail";"Middle East";17386223;26
+418;"Finance";"Europe";253869243;924
+419;"Transportation";"South America";57339838;383
+420;"Education";"North America";1654037;18
+421;"Finance";"Middle East";452064501;34
+422;"Finance";"North America";4135988;49
+423;"Education";"North America";19467188;324
+424;"Healthcare";"North America";2804673;164
+425;"Transportation";"Asia-Pacific";22938199;778
+426;"Retail";"Africa";98841287;914
+427;"Technology";"Asia-Pacific";12594378;3004
+428;"Manufacturing";"Africa";13998604;713
+429;"Technology";"North America";205573072;4244
+430;"Manufacturing";"Middle East";14167121;41
+431;"Technology";"Africa";8303389;4507
+432;"Education";"South America";175134271;30
+433;"Retail";"South America";71131601;44
+434;"Transportation";"Europe";34501229;322
+435;"Manufacturing";"Africa";278939423;82
+436;"Transportation";"Middle East";23151882;722
+437;"Transportation";"Asia-Pacific";23210016;319
+438;"Transportation";"North America";47545701;48
+439;"Energy";"Europe";11737320;62
+440;"Healthcare";"South America";7389383;733
+441;"Technology";"Asia-Pacific";11996746;3991
+442;"Transportation";"Asia-Pacific";5164053;68
+443;"Technology";"North America";18176498;30
+444;"Transportation";"Africa";189859624;4469
+445;"Manufacturing";"South America";25282379;4070
+446;"Healthcare";"Middle East";29825144;199
+447;"Healthcare";"Asia-Pacific";22542637;326
+448;"Education";"North America";4839647;186
+449;"Energy";"Middle East";16779534;438
+450;"Education";"Africa";48779087;185
+451;"Education";"South America";87712981;1663
+452;"Education";"Africa";29734816;41
+453;"Education";"Asia-Pacific";9530889;136
+454;"Education";"Middle East";15167207;139
+455;"Retail";"Middle East";13411039;31
+456;"Healthcare";"Middle East";4469553;37
+457;"Education";"Asia-Pacific";428398843;38
+458;"Transportation";"Asia-Pacific";1647008;22
+459;"Healthcare";"Africa";28962049;4538
+460;"Healthcare";"Europe";247069152;52
+461;"Finance";"Africa";91839392;3589
+462;"Retail";"South America";3995944;713
+463;"Education";"North America";1176076;963
+464;"Technology";"Middle East";454371485;77
+465;"Manufacturing";"Europe";13388512;40
+466;"Energy";"North America";51947763;138
+467;"Transportation";"Europe";194159765;22
+468;"Technology";"Africa";409644390;478
+469;"Retail";"Asia-Pacific";4778753;46
+470;"Manufacturing";"Middle East";390085734;689
+471;"Retail";"Africa";58439469;384
+472;"Transportation";"North America";74455289;12
+473;"Healthcare";"North America";35941617;28
+474;"Manufacturing";"North America";9845710;523
+475;"Healthcare";"North America";1721001;3461
+476;"Transportation";"North America";19689142;80
+477;"Technology";"Europe";96462256;48
+478;"Transportation";"Africa";99092554;308
+479;"Technology";"Middle East";34391234;34
+480;"Manufacturing";"Asia-Pacific";191144826;4200
+481;"Manufacturing";"Asia-Pacific";2443717;46
+482;"Education";"Africa";54409352;17
+483;"Retail";"Africa";48023557;156
+484;"Education";"Asia-Pacific";81050824;25
+485;"Retail";"Asia-Pacific";71888358;4656
+486;"Education";"Europe";277366431;10
+487;"Healthcare";"South America";1033320;461
+488;"Manufacturing";"Middle East";461037169;53
+489;"Technology";"North America";358564811;10
+490;"Retail";"South America";36241927;182
+491;"Transportation";"Africa";13752967;154
+492;"Retail";"Asia-Pacific";33526705;424
+493;"Technology";"South America";21308507;820
+494;"Education";"Middle East";40843837;210
+495;"Retail";"Africa";59331795;431
+496;"Energy";"North America";17382318;116
+497;"Healthcare";"North America";14986298;22
+498;"Manufacturing";"Middle East";1100734;18
+499;"Technology";"Middle East";28546310;136
+500;"Manufacturing";"Asia-Pacific";39628490;734
+501;"Energy";"North America";38003027;3650
+502;"Retail";"Africa";2147087;254
+503;"Retail";"South America";4081091;62
+504;"Transportation";"Africa";8829049;64
+505;"Energy";"Europe";31091989;2657
+506;"Technology";"Europe";18312409;220
+507;"Transportation";"Middle East";2868670;125
+508;"Healthcare";"Asia-Pacific";62681730;900
+509;"Transportation";"Europe";4071102;743
+510;"Finance";"North America";213398568;4807
+511;"Technology";"Africa";4923643;15
+512;"";"Africa";NA;411
+513;"Energy";"Middle East";450598090;301
+514;"Education";"South America";76098641;386
+515;"Finance";"Middle East";44329205;632
+516;"Healthcare";"South America";91528843;4695
+517;"Transportation";"Middle East";19150540;175
+518;"Education";"Middle East";16666968;182
+519;"Transportation";"Middle East";77346162;70
+520;"Finance";"South America";2992825;2930
+521;"Transportation";"South America";439377298;74
+522;"Energy";"Middle East";80559798;427
+523;"Education";"Europe";26152941;354
+524;"Energy";"Asia-Pacific";1594604;493
+525;"Finance";"Asia-Pacific";93992967;47
+526;"Energy";"Asia-Pacific";39951324;104
+527;"Healthcare";"South America";86286070;402
+528;"Finance";"South America";5264500;3086
+529;"Finance";"Europe";15556086;54
+530;"Finance";"Asia-Pacific";73289643;107
+531;"Technology";"Asia-Pacific";86458065;1941
+532;"Transportation";"Middle East";2517509;29
+533;"Technology";"South America";51940369;473
+534;"Technology";"Asia-Pacific";91681557;169
+535;"Healthcare";"Africa";453538596;571
+536;"Education";"Europe";282444343;54
+537;"Transportation";"Africa";1789352;721
+538;"Energy";"Africa";24678714;214
+539;"Retail";"Europe";13109698;53
+540;"Finance";"Africa";34609307;416
+541;"Energy";"Asia-Pacific";2390281;46
+542;"Finance";"South America";8941106;130
+543;"Healthcare";"Europe";85876898;686
+544;"Finance";"Middle East";27778748;555
+545;"Technology";"Africa";28099932;888
+546;"Transportation";"Europe";51946830;170
+547;"Retail";"North America";7614150;3814
+548;"Manufacturing";"North America";476337739;74
+549;"Finance";"South America";311283760;43
+550;"Energy";"Asia-Pacific";1465757;39
+551;"Technology";"South America";22605214;132
+552;"Manufacturing";"South America";27923641;903
+553;"Retail";"South America";316867219;659
+554;"Manufacturing";"South America";14384451;28
+555;"Technology";"Middle East";4958123;805
+556;"Transportation";"Middle East";29014653;411
+557;"Transportation";"Europe";120808635;906
+558;"Education";"North America";1301207;33
+559;"Transportation";"South America";6424945;21
+560;"Education";"Europe";14780146;39
+561;"Manufacturing";"North America";7363999;108
+562;"Healthcare";"Africa";29109096;1998
+563;"Energy";"Asia-Pacific";9790691;167
+564;"Energy";"Middle East";45584889;150
+565;"Manufacturing";"Africa";47950196;69
+566;"Finance";"North America";41003105;144
+567;"Finance";"Africa";29852415;163
+568;"Transportation";"Asia-Pacific";210388641;683
+569;"Energy";"North America";98115625;3529
+570;"Energy";"Africa";4961586;646
+571;"Education";"Middle East";15765682;819
+572;"Healthcare";"Middle East";16186361;316
+573;"Technology";"Europe";260474357;2137
+574;"Finance";"Africa";4232380;751
+575;"Energy";"South America";9443778;976
+576;"Education";"Africa";78175911;751
+577;"Retail";"North America";1260116;2327
+578;"Education";"North America";48134286;318
+579;"Finance";"Africa";2892064;2837
+580;"Finance";"Asia-Pacific";78207970;1161
+581;"Education";"Middle East";211670041;901
+582;"Technology";"North America";490090247;54
+583;"Manufacturing";"Middle East";1157795;648
+584;"Finance";"North America";4562223;2776
+585;"Education";"Europe";2257949;247
+586;"Energy";"South America";334862166;193
+587;"Education";"North America";33607851;698
+588;"Healthcare";"Middle East";44314381;547
+589;"Manufacturing";"Europe";16360589;23
+590;"Retail";"North America";40627457;20
+591;"Technology";"Asia-Pacific";89092598;4943
+592;"Transportation";"South America";263342628;18
+593;"Retail";"North America";17122948;35
+594;"Manufacturing";"Europe";78487589;261
+595;"Manufacturing";"Asia-Pacific";366998312;638
+596;"Manufacturing";"Africa";41662013;250
+597;"Retail";"Europe";16497852;53
+598;"Energy";"Europe";18205517;157
+599;"Manufacturing";"Asia-Pacific";55540070;313
+600;"Education";"Europe";47364435;2886
+601;"Retail";"Asia-Pacific";1761985;3302
+602;"Transportation";"North America";265458757;318
+603;"Manufacturing";"Asia-Pacific";4247248;3029
+604;"Education";"Asia-Pacific";21960826;698
+605;"Energy";"South America";366923864;131
+606;"Healthcare";"Asia-Pacific";203276571;28
+607;"Energy";"Asia-Pacific";84932801;85
+608;"Transportation";"Africa";236307940;35
+609;"Manufacturing";"North America";88785284;14
+610;"Transportation";"South America";40948990;249
+611;"Retail";"Africa";30630592;199
+612;"Finance";"Middle East";5152999;4146
+613;"Manufacturing";"North America";41320139;14
+614;"Finance";"North America";1061367;856
+615;"Education";"Middle East";75919139;15
+616;"Healthcare";"Asia-Pacific";24600108;590
+617;"Technology";"Africa";31393942;54
+618;"Transportation";"Europe";3854190;48
+619;"Energy";"South America";137407753;4367
+620;"Healthcare";"Europe";2093314;998
+621;"Manufacturing";"Middle East";39432053;3979
+622;"Finance";"North America";61872847;629
+623;"Energy";"North America";67819593;74
+624;"Finance";"South America";3299484;300
+625;"Retail";"North America";9577033;826
+626;"Finance";"North America";2911627;797
+627;"Retail";"South America";4257181;110
+628;"Education";"Africa";42039912;388
+629;"Energy";"Africa";1959744;257
+630;"Energy";"South America";1923780;531
+631;"Technology";"Middle East";48032275;284
+632;"Manufacturing";"North America";91916167;33
+633;"Retail";"North America";19048203;973
+634;"Technology";"Middle East";4103232;1548
+635;"Finance";"Africa";60856760;413
+636;"Finance";"Asia-Pacific";280568639;306
+637;"Technology";"Asia-Pacific";6942811;914
+638;"Energy";"Asia-Pacific";257502584;420
+639;"Finance";"Africa";58705956;16
+640;"Transportation";"Africa";266664164;363
+641;"Education";"Middle East";59714891;939
+642;"Education";"North America";45258148;4292
+643;"Transportation";"Middle East";3320688;770
+644;"Technology";"Middle East";445253495;1632
+645;"Transportation";"Africa";9220459;382
+646;"Retail";"Asia-Pacific";406526007;306
+647;"Retail";"Europe";19272667;34
+648;"Technology";"North America";1460494;120
+649;"Transportation";"Africa";3246533;18
+650;"Retail";"Asia-Pacific";16666027;2837
+651;"Energy";"Europe";87176570;157
+652;"Transportation";"Europe";3540476;284
+653;"Energy";"Africa";1034707;450
+654;"Retail";"South America";184823921;863
+655;"Education";"North America";2567053;2465
+656;"Retail";"Europe";30305153;221
+657;"Energy";"Africa";13061896;13
+658;"Healthcare";"Africa";233872126;678
+659;"Manufacturing";"Asia-Pacific";39621156;207
+660;"Finance";"South America";364594451;270
+661;"Transportation";"North America";4932441;627
+662;"Healthcare";"Middle East";84761500;193
+663;"Retail";"Asia-Pacific";75560098;360
+664;"Education";"Europe";17800197;198
+665;"Technology";"Europe";336268004;33
+666;"Retail";"Asia-Pacific";6208052;24
+667;"Education";"Africa";31244602;16
+668;"Manufacturing";"Europe";384138308;4989
+669;"Retail";"South America";12500960;170
+670;"Energy";"North America";19296048;342
+671;"Technology";"South America";16336370;365
+672;"Education";"Europe";30781901;108
+673;"Education";"Middle East";371475723;521
+674;"Education";"North America";49008147;27
+675;"Manufacturing";"North America";29685684;119
+676;"Retail";"Asia-Pacific";34321905;331
+677;"Manufacturing";"Asia-Pacific";6180887;287
+678;"Transportation";"Middle East";46973434;418
+679;"Finance";"Africa";41217066;361
+680;"Finance";"North America";174645629;378
+681;"Transportation";"Middle East";16136993;13
+682;"Retail";"Asia-Pacific";17103896;883
+683;"Energy";"Asia-Pacific";2924401;121
+684;"Manufacturing";"North America";6896220;586
+685;"Technology";"South America";23138744;4063
+686;"Education";"Europe";13535078;3337
+687;"Education";"Asia-Pacific";26935774;281
+688;"Retail";"Africa";38144439;111
+689;"Energy";"Africa";46220970;111
+690;"Finance";"Asia-Pacific";39205297;148
+691;"Finance";"South America";4679126;3076
+692;"Education";"South America";279805611;93
+693;"Retail";"Middle East";9273445;369
+694;"Manufacturing";"Africa";49372243;48
+695;"Finance";"Middle East";8184790;136
+696;"Manufacturing";"Africa";228735615;26
+697;"Energy";"Europe";133134205;2634
+698;"Finance";"Europe";97480620;15
+699;"Finance";"North America";32529971;2518
+700;"Healthcare";"Middle East";26681935;398
+701;"Finance";"Asia-Pacific";14963441;148
+702;"Transportation";"Middle East";430083049;10
+703;"Technology";"Asia-Pacific";308015734;830
+704;"Transportation";"South America";260553991;30
+705;"Retail";"Middle East";1796657;505
+706;"Retail";"South America";23646804;2538
+707;"Manufacturing";"Europe";304449543;72
+708;"Transportation";"Europe";15067295;4184
+709;"Transportation";"North America";1800101;11
+710;"Transportation";"Middle East";87655044;830
+711;"Energy";"South America";93902446;43
+712;"Finance";"Asia-Pacific";323981653;194
+713;"Technology";"Europe";2819822;868
+714;"Manufacturing";"Europe";2044257;175
+715;"Transportation";"Asia-Pacific";11339776;48
+716;"Transportation";"South America";14353526;136
+717;"Healthcare";"South America";92439798;126
+718;"Manufacturing";"Middle East";80555353;1344
+719;"Transportation";"Middle East";350173385;88
+720;"Manufacturing";"Africa";28121757;944
+721;"Finance";"Africa";9642929;559
+722;"Healthcare";"North America";1028625;188
+723;"Manufacturing";"Europe";22833552;299
+724;"Technology";"Middle East";16820569;113
+725;"Technology";"South America";4182215;99
+726;"Retail";"Asia-Pacific";403266535;82
+727;"Healthcare";"South America";32431216;185
+728;"Healthcare";"Europe";66040922;477
+729;"Retail";"Africa";340297799;29
+730;"Manufacturing";"South America";295465560;654
+731;"Healthcare";"North America";13704813;13
+732;"Technology";"Europe";4045315;414
+733;"Technology";"Africa";4144480;343
+734;"Transportation";"Asia-Pacific";49461504;170
+735;"Finance";"Africa";40348050;49
+736;"Healthcare";"North America";19497054;713
+737;"Manufacturing";"Europe";61319247;279
+738;"Retail";"Asia-Pacific";63913140;166
+739;"Retail";"North America";17494127;37
+740;"Manufacturing";"Africa";32006468;23
+741;"Energy";"North America";49518184;911
+742;"Education";"Europe";241069531;881
+743;"Finance";"Middle East";1462785;989
+744;"Retail";"North America";34566079;108
+745;"Healthcare";"North America";10742533;484
+746;"Finance";"Africa";74101438;4098
+747;"Healthcare";"Africa";7627144;869
+748;"Energy";"Asia-Pacific";18560992;1447
+749;"Technology";"Africa";3825896;116
+750;"Finance";"South America";88491224;448
+751;"Transportation";"Europe";110427148;754
+752;"Retail";"Europe";239094600;4971
+753;"Finance";"Middle East";488615924;94
+754;"Finance";"Middle East";39397196;597
+755;"Finance";"Europe";81935646;542
+756;"Education";"Middle East";115099203;427
+757;"Finance";"Asia-Pacific";209571681;462
+758;"Healthcare";"Africa";12716220;48
+759;"Technology";"Europe";3329701;73
+760;"Energy";"Middle East";17087789;3649
+761;"Manufacturing";"Europe";317646723;173
+762;"Finance";"South America";282937189;378
+763;"Retail";"North America";52887698;28
+764;"Finance";"Africa";33565381;397
+765;"Retail";"Europe";32619233;20
+766;"Healthcare";"North America";62417420;21
+767;"Retail";"Middle East";4390742;4658
+768;"Transportation";"North America";90912236;17
+769;"Manufacturing";"Africa";72910282;497
+770;"Technology";"Europe";3887296;664
+771;"Retail";"South America";96531927;46
+772;"Retail";"Middle East";301302013;30
+773;"Technology";"Europe";86291014;272
+774;"Manufacturing";"Africa";124733272;3615
+775;"Finance";"Middle East";6100500;247
+776;"Retail";"Asia-Pacific";420343694;4983
+777;"Technology";"North America";42371392;438
+778;"Transportation";"Africa";190936006;604
+779;"Transportation";"Asia-Pacific";54032654;710
+780;"Healthcare";"Europe";402654356;92
+781;"Technology";"South America";123277458;468
+782;"Healthcare";"Middle East";56978140;11
+783;"Transportation";"North America";34521816;3823
+784;"Manufacturing";"Middle East";4360160;836
+785;"Finance";"Europe";33611312;459
+786;"Technology";"Middle East";16674335;36
+787;"Energy";"North America";14268720;2650
+788;"Transportation";"Europe";398154274;240
+789;"Transportation";"Middle East";23037099;986
+790;"Energy";"South America";1079973;42
+791;"Education";"Africa";17384217;3268
+792;"Transportation";"Europe";24828426;629
+793;"Retail";"Africa";4906402;58
+794;"Manufacturing";"Europe";3042823;301
+795;"Technology";"South America";37825389;3976
+796;"Energy";"Africa";2502025;2916
+797;"Retail";"Asia-Pacific";140133569;376
+798;"Energy";"North America";3591661;4691
+799;"Technology";"Asia-Pacific";21912584;601
+800;"Healthcare";"Middle East";120554754;460
+801;"Technology";"South America";34178388;978
+802;"Education";"Asia-Pacific";1225049;160
+803;"Technology";"Europe";2317191;69
+804;"Technology";"Middle East";64846767;232
+805;"Education";"Middle East";64677441;3697
+806;"Manufacturing";"Asia-Pacific";268519579;21
+807;"Transportation";"Asia-Pacific";29468532;2931
+808;"Technology";"South America";25438684;216
+809;"Education";"North America";2836185;179
+810;"Retail";"Asia-Pacific";72315019;563
+811;"Healthcare";"Asia-Pacific";7380932;4181
+812;"";"Africa";2654753;875
+813;"Technology";"Europe";18685039;2013
+814;"Manufacturing";"Africa";58793380;221
+815;"Manufacturing";"Africa";60104107;1670
+816;"Retail";"Middle East";20571107;1269
+817;"Technology";"North America";183173418;43
+818;"Healthcare";"Europe";30905942;460
+819;"Manufacturing";"South America";7086213;912
+820;"Technology";"South America";40135725;152
+821;"Energy";"Asia-Pacific";2501681;40
+822;"Manufacturing";"Asia-Pacific";488655467;559
+823;"Education";"South America";15302330;447
+824;"Energy";"Asia-Pacific";12313834;328
+825;"Transportation";"North America";178308332;4867
+826;"Manufacturing";"Africa";410927380;825
+827;"Healthcare";"Asia-Pacific";403989142;34
+828;"Finance";"Middle East";10044842;181
+829;"Energy";"Asia-Pacific";4122166;396
+830;"Transportation";"Europe";14376079;481
+831;"Retail";"North America";49419310;198
+832;"Retail";"Europe";406146420;918
+833;"Healthcare";"Europe";3446459;654
+834;"Manufacturing";"Middle East";56592910;882
+835;"Technology";"North America";227530787;14
+836;"Manufacturing";"North America";2188554;1227
+837;"Healthcare";"North America";71794866;389
+838;"Retail";"North America";3993934;976
+839;"Manufacturing";"North America";12909699;59
+840;"Retail";"Middle East";355275796;47
+841;"Energy";"Asia-Pacific";94810380;334
+842;"Transportation";"Europe";20258517;711
+843;"Technology";"North America";18538066;560
+844;"Energy";"Asia-Pacific";277517901;928
+845;"Retail";"Asia-Pacific";56428540;20
+846;"Retail";"Europe";84259907;158
+847;"Finance";"Middle East";49105135;158
+848;"Finance";"South America";3679156;18
+849;"Energy";"South America";249777971;30
+850;"Education";"Asia-Pacific";94731930;4800
+851;"Energy";"Africa";46417902;NA
+852;"Finance";"Africa";NA;NA
+853;"Retail";"Europe";83978658;12
+854;"Healthcare";"South America";32056199;21
+855;"Energy";"Asia-Pacific";99397865;1476
+856;"Retail";"Middle East";9117923;80
+857;"Healthcare";"South America";16991709;35
+858;"Healthcare";"Asia-Pacific";2418897;30
+859;"Finance";"Asia-Pacific";11303745;656
+860;"Energy";"North America";80060464;4832
+861;"Manufacturing";"Middle East";20698956;84
+862;"Technology";"North America";32290137;91
+863;"Finance";"Europe";79446493;101
+864;"Finance";"North America";89833034;275
+865;"Manufacturing";"North America";45920774;32
+866;"Technology";"South America";26143326;376
+867;"Retail";"Africa";20175211;884
+868;"Education";"Asia-Pacific";27519817;650
+869;"Energy";"Middle East";62481574;473
+870;"Education";"North America";27412620;14
+871;"Retail";"Middle East";9257950;608
+872;"Transportation";"Africa";13654406;2675
+873;"Finance";"Africa";2530814;471
+874;"Technology";"North America";70668329;36
+875;"Finance";"Europe";3826684;1931
